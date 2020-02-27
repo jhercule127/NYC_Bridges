@@ -9,7 +9,7 @@ What things you need to install the software and how to install them
 R/RStudio
 Necessary R Packages
 ```
-
+![Image of Poster](https://github.com/jhercule127/NYC_Bridges/blob/master/Research_Project.JPG)
 ## Built With
 
 * [R](https://www.r-project.org/) - Statistical Programming and Graphics
